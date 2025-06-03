@@ -34,16 +34,17 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 ---
 
-* O equipamento é homologado pela [ANATEL](https://www.gov.br/anatel/pt-br) (Agência Nacional de Telecomunicações). Siga esses passos para investigar:
+* O equipamento é homologado pela Agência Nacional de Telecomunicações - ANATEL. Siga esses passos para investigar:
 
-entre site
+entre site  [ANATEL](https://www.gov.br/anatel/pt-br)
+
       ↳   clique no 3 tracinhos do canto esquerdo superior
       
-         ↳   Vá em **REGULADO**
+         ↳   Vá em REGULADO
       
-            ↳ Vá em **CERTIFICAÇÃO DE PRODUTOS**
+            ↳ Vá em CERTIFICAÇÃO DE PRODUTOS
             
-               ↳ Vá em **CONSULTAR PRODUTOS HOMOLOGADOS**
+               ↳ Vá em CONSULTAR PRODUTOS HOMOLOGADOS
 
 
 ## 3️⃣ Testes Físicos Realizados
