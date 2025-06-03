@@ -55,8 +55,11 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
                                     ↳ Clique no link Nº de Homologação
 
-                      
 
+---
+
+---
+                   
 
 ## 3️⃣ Testes Físicos Realizados
 
@@ -113,3 +116,11 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 ---
 
 ---
+
+## 7️⃣ Cabeamento Estruturado
+
+
+
+
+8️⃣ 
+9️⃣
