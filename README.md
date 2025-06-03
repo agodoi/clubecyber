@@ -15,7 +15,7 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 * Nome da dupla: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 * Número do roteador/repetidor (marcação de bancada): \_\_\_\_\_\_\_\_\_\_\_\_\_
-* Data: ****/****/\_\_\_\_\_\_
+* Data: \_\_/\_\_/\_\_\_\_\_
 
 
 ## 2️⃣ Inspeção Física Inicial
@@ -34,7 +34,8 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 ---
 
-**3️⃣ Testes Físicos Realizados**
+## 3️⃣ Testes Físicos Realizados
+
 ✅ Teste 1: O que acontece ao desconectar fisicamente o cabo de rede enquanto o roteador está ativo?
 
 ---
@@ -49,7 +50,7 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 ---
 
-**4️⃣ Identificação de Vulnerabilidades Físicas**
+## 4️⃣ Identificação de Vulnerabilidades Físicas
 
 * Descreva **duas vulnerabilidades físicas reais** que encontraram e expliquem por que elas representam um risco à segurança cibernética:
 
@@ -63,7 +64,7 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 ---
 
-**5️⃣ Recomendações de Mitigação**
+## 5️⃣ Recomendações de Mitigação
 
 * Quais soluções simples poderiam ser implementadas para mitigar os riscos físicos identificados?
 
@@ -79,20 +80,12 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 ---
 
-**6️⃣ Conclusão da Missão**
+## 6️⃣ Conclusão da Missão
 
-* Em poucas palavras, descreva o maior aprendizado do grupo nesta missão:
-
----
+* Em poucas palavras, descreva o maior aprendizado do grupo nesta tarefa:
 
 ---
 
 ---
 
-**Assinatura dos agentes (alunos):**
-
 ---
-
----
-
-Se quiser, posso também montar uma versão diagramada bonitinha em Word ou PDF, com logo fictícia da “SafeNet” e espaço para anotações. Quer que eu monte esse documento pronto?
