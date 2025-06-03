@@ -1,6 +1,6 @@
 # 📖 Storytelling: Missão SafeNet
 
-Hoje vocês fazem parte de uma missão de segurança real: a SafeNet é uma empresa fictícia que atua com redes corporativas e está preocupada com vulnerabilidades na **camada física**. Cada dupla recebeu um roteador/repetidor de marca genérica — um equipamento barato, popular, mas que esconde potenciais riscos físicos.
+Hoje vocês fazem parte de uma equipe de segurança real: a SafeNet é uma empresa fictícia que atua com redes corporativas e está preocupada com vulnerabilidades na **camada física**. Cada dupla/trio recebeu um roteador/repetidor de marca genérica — um equipamento barato, popular, mas que esconde potenciais riscos físicos.
 
 O objetivo da missão é auditar a segurança física **não pelo software ou configuração**, mas **pelo que se pode ver, tocar e interferir fisicamente**: cabos, conectores, portas, sinais e energia.
 
