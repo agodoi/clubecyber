@@ -38,8 +38,11 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 entre site
       ↳   clique no 3 tracinhos do canto esquerdo superior
+      
          ↳   Vá em **REGULADO**
+      
             ↳ Vá em **CERTIFICAÇÃO DE PRODUTOS**
+            
                ↳ Vá em **CONSULTAR PRODUTOS HOMOLOGADOS**
 
 
