@@ -119,7 +119,7 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 ## 7️⃣ Cabeamento Estruturado
 
-### (7.2) BOAS PRÁTICAS - Crimpagem do cabo UTP e Teste
+### 7️⃣.1️⃣ BOAS PRÁTICAS - Crimpagem do cabo UTP e Teste
 
 Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns detalhes para garantir uma conexão eficiente e estável, livre de problemas, engenharia social e consequentemente, ataques. Sua missão é crimpar um cabo UTP CAT 5 com um conector RJ45 em cada ponta e passar no teste de condutividade. Usar o padrão 568A nas duas pontas. Você também pode optar pelo 568B nas duas pontas. Aqui estão as boas práticas para esse processo:
 
