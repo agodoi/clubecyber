@@ -117,29 +117,27 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 ---
 
-## 7️⃣ Cabeamento Estruturado
-
-### 7️⃣.1️⃣ BOAS PRÁTICAS - Crimpagem do cabo UTP e Teste
+## 7️⃣ Boas Práticas de Cabeamento Estruturado - Crimpagem do cabo UTP e Teste
 
 Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns detalhes para garantir uma conexão eficiente e estável, livre de problemas, engenharia social e consequentemente, ataques. Sua missão é crimpar um cabo UTP CAT 5 com um conector RJ45 em cada ponta e passar no teste de condutividade. Usar o padrão 568A nas duas pontas. Você também pode optar pelo 568B nas duas pontas. Aqui estão as boas práticas para esse processo:
 
-**a)** Escolha do Cabo e Conectores Corretos
+7️⃣.1️⃣ Escolha do Cabo e Conectores Corretos
    - Verifique se o cabo é compatível com o padrão Cat 5.
    - Utilize conectores RJ-45 adequados para cabos Cat 5 (ou Cat 5e).
    
-**b)** Corte Limpo do Cabo
+7️⃣.2️⃣ Corte Limpo do Cabo
    - Utilize uma ferramenta de corte para garantir que o cabo seja cortado de forma reta e precisa, evitando fios desalinhados que podem dificultar a conexão.
 
-**c)** Desencape o Cabo Com Cuidado
+7️⃣.3️⃣ Desencape o Cabo Com Cuidado
    - Ao remover a capa externa do cabo, deixe expostos cerca de 2,5 cm (1 polegada) dos pares trançados internos.
    - Não desencape, ou corte ou danifique os fios internos no momento de desencapar a capa externa.
 
-**d)** Desenrolar e Organizar os Fios
+7️⃣.4️⃣ Desenrolar e Organizar os Fios
    - Separe os pares de fios e os alinhe de acordo com o padrão escolhido (T568A ou T568B).
    - Certifique-se de que os fios estão alinhados e retos antes de inserir no conector.
    - Não desenrole demais os fios; mantenha a torção o mais próximo possível do conector, pois isso ajuda a minimizar interferências.
 
-**e)** Escolha do Padrão Correto
+7️⃣.5️⃣ Escolha do Padrão Correto
    - Decida entre o padrão **T568A** ou **T568B** e certifique-se de seguir o mesmo padrão em ambas as extremidades do cabo, especialmente se estiver fazendo um cabo patch.
    - As combinações de cores para o padrão T568A são:
      - pino (1) Verde/Branco
@@ -169,15 +167,15 @@ Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns det
 * Sempre usamos as portas **Fast Ethernet** para conexão do RJ45 + cabo UTP de PC e **Giga Ethernet** para Switches e Roteadores.
 
 
-**f)** Inserção Correta dos Fios no Conector
+7️⃣.6️⃣ Inserção Correta dos Fios no Conector
    - Certifique-se de que os fios estão perfeitamente alinhados e nivelados antes de inserir no conector RJ-45.
    - Pressione firmemente os fios dentro do conector até que cada um toque seu respectivo pino de metal.
    - O cabo externo (capa) deve estar preso dentro do conector para maior resistência e durabilidade.
 
-**g)** Uso da Ferramenta de Crimpagem
+7️⃣.7️⃣ Uso da Ferramenta de Crimpagem
    - Posicione o conector no alicate de crimpagem e aperte firmemente para fixar os contatos metálicos nos fios.
    - Certifique-se de que o conector está totalmente inserido no alicate antes de crimpar para evitar crimpar mal e danificar o conector.
 
-**h)** Teste o Cabo
+7️⃣.8️⃣ Teste o Cabo
    - Após crimpar, utilize um **testador de cabos** para garantir que todos os fios estão corretamente conectados e o cabo está funcionando corretamente.
    - Verifique se todos os pares estão funcionando e se não há fios cruzados ou mal conectados.
