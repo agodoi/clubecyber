@@ -179,3 +179,6 @@ Crimpar um cabo UTP (Unshielded Twisted Pair) Cat 5 exige atenção a alguns det
 7️⃣.8️⃣ Teste o Cabo
    - Após crimpar, utilize um **testador de cabos** para garantir que todos os fios estão corretamente conectados e o cabo está funcionando corretamente.
    - Verifique se todos os pares estão funcionando e se não há fios cruzados ou mal conectados.
+
+
+## Fim!
