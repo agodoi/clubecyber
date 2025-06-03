@@ -15,7 +15,7 @@ Vocês terão 60 minutos para explorar, anotar, testar e entregar este relatóri
 
 * Nome da dupla: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 * Número do roteador/repetidor (marcação de bancada): \_\_\_\_\_\_\_\_\_\_\_\_\_
-* Data: \_\_/\_\_/\_\_\_\_\_
+* Data: \_\_\_/\_\_\_/\_\_\_\_\_\_
 
 
 ## 2️⃣ Inspeção Física Inicial
